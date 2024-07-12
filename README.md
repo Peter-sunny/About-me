@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Peter Sunny<br>I'm currently 2nd year BCA student at Don Bosco College Mampetta ,Calicut 
+Experienced AI and ML specialist with expertise in data science, deep learning, and data analysis. Proficient in Python. Skilled in statistical analysis, predictive modeling, and building data pipelines. Strong problem-solving abilities and a passion for deriving actionable insights to drive innovation and efficiency.
 
 
 ## 🌐 Socials:
